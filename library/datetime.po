@@ -402,7 +402,7 @@ msgstr "``days``"
 
 #: ../../library/datetime.rst:282
 msgid "Between -999999999 and 999999999 inclusive"
-msgstr ""
+msgstr "在 -999999999 到 999999999 （含）之間"
 
 #: ../../library/datetime.rst:284
 msgid "``seconds``"
